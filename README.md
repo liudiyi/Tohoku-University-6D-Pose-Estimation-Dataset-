@@ -24,4 +24,5 @@ Diyi Liu, Shogo Arai, Jiaqi Miao, Kinugawa Jun and Kosuge Kazuhiro
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Note
+The parts in the data set are still in the preparetion stage, we are going to realse them until 15th September. 
