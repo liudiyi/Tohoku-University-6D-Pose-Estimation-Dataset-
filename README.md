@@ -3,8 +3,8 @@ This is an open dataset for evaluating pose estimation algorithms which are desi
 To evalaute the performance of pose estimation for bin picking system, the scenes in this dataset are made to close to the real situation in the factory.
 
 ## Characteristics of Scenes
-* Only one type of parts are randomly piled up in a scene.
-* The number of parts in each scene is more than 15. 
+* Only one type of parts are randomly piled up in a scene, which is common in real factory.
+* The number of parts in each scene is more than 10. 
 * The parts are normally made of resin, no discriminative color, no texture, often same in shape.
 
 ## Constructions 
